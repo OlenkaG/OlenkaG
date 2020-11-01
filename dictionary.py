@@ -14,7 +14,7 @@
         for char_1 in user_input_1:
             id_counter += 1
             dictionary_1["ID " + str(id_counter)] = char_1
-        # тоже самое и со вторім словарем
+        
         for char_2 in user_input_2:
             id_counter += 1
             dictionary_2["ID " + str(id_counter)] = char_2
